@@ -112,3 +112,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#jupyter checkpoints
+.ipynb_checkpoints
