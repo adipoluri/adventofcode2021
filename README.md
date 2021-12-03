@@ -1,6 +1,6 @@
 # Advent of Code 2021!
 
-| Day | Completion |
+| Day |  |
 | ----------- | ----------- |
 | Day1 |  :star: :star: |
 | Day2 |  :star: :star: |
