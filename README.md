@@ -2,9 +2,9 @@
 
 | Day | Completion |
 | ----------- | ----------- |
-| Day1 |  * * |
-| Day2 |  * * |
-| Day3 |  * * |
+| Day1 |  :star: :star: |
+| Day2 |  :star: :star: |
+| Day3 |  :star: :star: |
 | Day4 |   |
 | Day5 |   |
 | Day6 |   |
