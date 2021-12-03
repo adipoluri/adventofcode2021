@@ -2,6 +2,11 @@
 
 ### Completion List
 
-day1 // * *
-day2 // * *
-day3 // * *
+```python
+
+def AdventofCode():
+  return {
+            completed: [day1,day2
+         }
+
+```
