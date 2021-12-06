@@ -1,3 +1,3 @@
 ### Visualization using pyGame
 
-[![](https://img.youtube.com/vi/mBnwnkO9pwk/0.jpg)](https://youtu.be/mBnwnkO9pwk "Visualizer")
+[![](https://img.youtube.com/vi/BgIY8fEuStU/0.jpg)](https://youtu.be/BgIY8fEuStU "Visualizer")
