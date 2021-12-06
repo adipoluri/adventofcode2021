@@ -6,7 +6,7 @@
 | 2 |  :star: :star: |
 | 3 |  :star: :star: (https://youtu.be/QVkiUfF6KtQ) |
 | 4 |  :star: :star: (https://youtu.be/mMRvVpJYxkk) |
-| 5 |   |
+| 5 |  :star: :star: (https://youtu.be/mBnwnkO9pwk) |
 | 6 |   |
 | 7 |   |
 | 8 |   |
