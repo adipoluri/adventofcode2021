@@ -27,8 +27,8 @@
 | 3 |  :star: :star: (https://youtu.be/QVkiUfF6KtQ) |
 | 4 |  :star: :star: (https://youtu.be/mMRvVpJYxkk) |
 | 5 |  :star: :star: (https://youtu.be/mBnwnkO9pwk) |
-| 6 |  :star: :star: (https://youtu.be/nl7okW48JsU)|
-| 7 |   |
+| 6 |  :star: :star: (https://youtu.be/nl7okW48JsU) |
+| 7 |  :star: :star: (https://youtu.be/x9zFqYAzQPs) |
 | 8 |   |
 | 9 |   |
 | 10 |   |
