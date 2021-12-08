@@ -29,7 +29,7 @@
 | 5 |  :star: :star: (https://youtu.be/mBnwnkO9pwk) |
 | 6 |  :star: :star: (https://youtu.be/nl7okW48JsU) |
 | 7 |  :star: :star: (https://youtu.be/x9zFqYAzQPs) |
-| 8 |   |
+| 8 |  :star: :star: (https://youtu.be/TZzdgsWRnhI) |
 | 9 |   |
 | 10 |   |
 | 11 |   |
