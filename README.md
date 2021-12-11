@@ -30,7 +30,7 @@
 | 6 |  :star: :star: (https://youtu.be/nl7okW48JsU) |
 | 7 |  :star: :star: (https://youtu.be/x9zFqYAzQPs) |
 | 8 |  :star: :star: (https://youtu.be/TZzdgsWRnhI) |
-| 9 |   |
+| 9 |  :star: :star: (https://youtu.be/p-SclCWz8Zg) |
 | 10 |   |
 | 11 |   |
 | 12 |   |
