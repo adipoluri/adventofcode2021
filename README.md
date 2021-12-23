@@ -31,8 +31,8 @@
 | 7 |  :star: :star: (https://youtu.be/x9zFqYAzQPs) |
 | 8 |  :star: :star: (https://youtu.be/TZzdgsWRnhI) |
 | 9 |  :star: :star: (https://youtu.be/p-SclCWz8Zg) |
-| 10 |   |
-| 11 |   |
+| 10 | :star: :star: () |
+| 11 | :star: :star: (https://youtu.be/P7Ie8o3vzcA) |
 | 12 |   |
 | 13 |   |
 | 14 |   |
