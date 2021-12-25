@@ -33,7 +33,7 @@
 | 9 |  :star: :star: (https://youtu.be/p-SclCWz8Zg) |
 | 10 | :star: :star: () |
 | 11 | :star: :star: (https://youtu.be/P7Ie8o3vzcA) |
-| 12 |   |
+| 12 | :star: :star: |
 | 13 |   |
 | 14 |   |
 | 15 |   |
